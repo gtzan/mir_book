@@ -7,3 +7,14 @@ This repository contains jupyter notebooks in Python used for teaching and tutor
 3. Bayesian Classification 
 4. Clustering using Gaussian Mixture Model and PCA 
 5. Markov Chains and Hidden Markov Models
+
+
+To run the notebooks you will need to install the following Python libraries: 
+
+1. Numpy 
+2. Scipy 
+3. scikit-learn 
+4. music21 
+
+In order for music21 to display scores you will need to have the MuseScore2 application installed. According to music21 documentation any MusicXML rendering software can work but I have not tested this. 
+
