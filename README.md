@@ -5,3 +5,5 @@ This repository contains jupyter notebooks in Python used for teaching and tutor
 1. Probability and Random Variables 
 2. Conditional Probability 
 3. Bayesian Classification 
+4. Clustering using Gaussian Mixture Model and PCA 
+5. Markov Chains and Hidden Markov Models
