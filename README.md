@@ -2,7 +2,7 @@
 
 This repository contains Jupyter/Python notebooks in Python used for teaching and tutorials for various topics in Machine Learning and Digital Signal Processing with a focus on applications in Music Information Retrieval. 
 
-[Sinusoid World Chapter](ch1_sinusoidworld) 
+[Chapter 1: Sinusoid World](ch1_sinusoidworld) 
 
 
 
